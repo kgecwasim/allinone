@@ -1,0 +1,2 @@
+user:
+  projectUrl: http://project-service/project/?user-id={userId}
