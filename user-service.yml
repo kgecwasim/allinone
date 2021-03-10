@@ -1,2 +1,7 @@
+spring.datasource.url: jdbc:postgresql://localhost:5432/poc
+spring.datasource.username: postgres
+spring.datasource.password: Independent12#
+
+spring.jpa.database: postgresql
 user:
   projectUrl: http://project-service/project/?user-id={userId}
