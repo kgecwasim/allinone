@@ -5,3 +5,4 @@ eureka:
       defaultZone: http://localhost:8762/eureka/
   instance:
     hostname: localhost
+spring.zipkin.base-url: http://127.0.0.1:9411/
